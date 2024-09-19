@@ -1,1 +1,1 @@
-# ClubManagement
+# club-manager
